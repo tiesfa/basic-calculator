@@ -7,8 +7,8 @@
 }
 
 .btn-primary {
-    @apply bg-red-500 text-white;
+    @apply bg-red-500 text-white p-8;
 }
 .btn-secondary {
-    @apply bg-stone-200 text-neutral-900;
+    @apply bg-stone-200 text-neutral-900 p-8;
 }
