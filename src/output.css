@@ -626,6 +626,10 @@ video {
   gap: 0.5rem;
 }
 
+.rounded-md {
+  border-radius: 0.375rem;
+}
+
 .bg-neutral-900 {
   --tw-bg-opacity: 1;
   background-color: rgb(23 23 23 / var(--tw-bg-opacity));
@@ -649,6 +653,7 @@ video {
 }
 
 .btn-primary {
+  border-radius: 0.375rem;
   --tw-bg-opacity: 1;
   background-color: rgb(239 68 68 / var(--tw-bg-opacity));
   padding: 2rem;
@@ -677,6 +682,7 @@ video {
 }
 
 .btn-secondary {
+  border-radius: 0.375rem;
   --tw-bg-opacity: 1;
   background-color: rgb(231 229 228 / var(--tw-bg-opacity));
   padding: 2rem;
