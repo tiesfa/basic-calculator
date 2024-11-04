@@ -622,6 +622,10 @@ video {
   grid-template-rows: repeat(6, minmax(0, 1fr));
 }
 
+.content-end {
+  align-content: flex-end;
+}
+
 .gap-2 {
   gap: 0.5rem;
 }
@@ -637,6 +641,14 @@ video {
 
 .p-8 {
   padding: 2rem;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.text-end {
+  text-align: end;
 }
 
 .uppercase {
